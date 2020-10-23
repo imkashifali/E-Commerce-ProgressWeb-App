@@ -1,0 +1,32 @@
+.main-footer {
+  width: 100%;
+}
+.container {
+  background-color: #232f3e;
+  height: 250px;
+  margin: 0;
+}
+
+.footer-head {
+  color: #fff;
+  margin-top: 40px;
+  padding-top: 32px;
+  display: flex;
+  justify-content: space-around;
+  list-style: none !important;
+  flex-direction: row;
+}
+.footer-col ul li {
+  list-style: none !important;
+  text-align: start;
+  padding: 2px;
+}
+.footer-bottom {
+  color: #fff;
+  font-size: 15px;
+  margin-top: 10px;
+}
+.footer-Socail {
+  font-size: 17px;
+  font-weight: bolder;
+}
